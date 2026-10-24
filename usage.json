@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-client-api-client",
+  "packageVersion": "1.19.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-client-api-client",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-client-api-client",
+  "sourceRepository": "https://github.com/x12i/memorix-client-api",
+  "sourceCommit": "09d8f02eb5f96c2d8f99d28996cff1f9a458115b",
+  "sourcePackageDirectory": "memorix-client-api-client",
+  "example": {
+    "title": "Read through a scoped client with an injected HTTP fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:51:59.180815+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "68e83a184cb40b7547299f0faa45b4f27977bf4cd0b351c78814dab32685767c",
+    "manifestSha256": "0d46c65520405e270084772a093c21f001d37ec63030911794ce666bc0e3ed4c"
+  }
+}

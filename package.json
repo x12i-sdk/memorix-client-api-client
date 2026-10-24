@@ -1,0 +1,22 @@
+{
+  "name": "memorix-client-api-client-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/memorix-client-api-client: read through a scoped client with an injected http fixture.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/memorix-client-api-client": "1.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/memorix-client-api-client.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/memorix-client-api-client"
+}
